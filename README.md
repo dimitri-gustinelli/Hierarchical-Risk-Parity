@@ -1,6 +1,6 @@
 # Hierarchical-Risk-Parity
 
-The main topic of my Master thesis is the Python/Jupyter implementation of **Hierarchical Risk Parity (HRP)** portfolio with rolling out-of-sample backtesting, transaction-cost modelling, portfolio diagnostics, and comparison against traditional allocation strategies.
+The topic of my Master thesis is Python/Jupyter implementation of **Hierarchical Risk Parity (HRP)** portfolio with the rolling out-of-sample backtesting, transaction-cost modelling, portfolio diagnostics, and comparison against traditional allocation strategies.
 
 The notebook implements the HRP algorithm portfolio introduced by Marcos López de Prado and compares it with following portfolios:
 
